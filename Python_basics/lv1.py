@@ -11,3 +11,5 @@ def solution(arr1, arr2):
     b = np.matrix([[2, 0, 0], [0, 2, 0]]) # 3 * 2
     answer = a * b
     return answer
+
+
